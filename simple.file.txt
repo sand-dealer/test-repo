@@ -1,0 +1,4 @@
+Some simple file
+With several
+Strings
+In it

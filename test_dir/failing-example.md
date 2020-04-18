@@ -1,4 +1,6 @@
-<h1> Header of the file</h1>
+<h1>Header of the file</h1>
+<h2>Test</h2>
+
 <table>
   <tr>
     <th>one</th>
